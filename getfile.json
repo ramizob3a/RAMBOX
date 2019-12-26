@@ -1,0 +1,15 @@
+{
+
+    "result": true,
+
+    "plugins_": {
+
+        "games.lua":"TH3VICTORY",
+
+        "ZHRFA.lua":"TH3VICTORY",
+
+        "JSON_BOT.lua":"TH3VICTORY"
+
+    }
+
+}
